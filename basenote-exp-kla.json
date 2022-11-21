@@ -16,8 +16,9 @@
     },
     "keyboardType": "standard",
     "author": "Hazaskull",
-    "moreInfoText": "Basenote experiment",
+    "authorUrl": "",
     "moreInfoUrl": "https://github.com/ijzerbroot/basenote",
+    "moreInfoText": "Basenote experiment",
     "keys": [
         {
             "primary": 96,
@@ -217,20 +218,22 @@
             "id": 29
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 115,
+            "shift": 83,
             "finger": 2,
             "id": 30,
             "altGr": -1,
-            "shiftAltGr": -1
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
-            "primary": 115,
-            "shift": 83,
+            "primary": 108,
+            "shift": 76,
             "finger": 3,
             "id": 31,
             "altGr": -1,
-            "shiftAltGr": -1
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
             "primary": 116,
@@ -272,10 +275,13 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 108,
-            "shift": 76,
+            "primary": 114,
+            "shift": 82,
             "finger": 9,
-            "id": 37
+            "id": 37,
+            "altGr": -1,
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
             "primary": 111,
